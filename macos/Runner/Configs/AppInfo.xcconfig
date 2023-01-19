@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = knowgeo
+PRODUCT_NAME = Know Geo;
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.knowgeo
+PRODUCT_BUNDLE_IDENTIFIER = com.mdskrumi.knowgeo;
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2023 com.example. All rights reserved.
